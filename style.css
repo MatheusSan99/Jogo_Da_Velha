@@ -1,0 +1,48 @@
+body {
+    text-align: center;
+}
+.quadrado{
+    text-align: center;
+    width: 50px;
+    background: #eee;
+    display: inline-block;
+    padding: 40px;
+    font-size: 60px;
+    margin: 5px;
+    cursor: pointer;
+    color: #eee;
+}
+.jogador{
+    font-size: 30px;
+    margin-top: 10px;
+}
+button {
+    margin-top: 10px;
+    width: 100px;
+    background: #eee;
+    cursor: pointer;
+}
+#pontuacaoX {
+   left: 15%;
+   bottom: 55%;
+   margin: 5px 5px;
+   padding: 5px 5px; 
+   position: absolute;
+   width: 18%;
+   text-align: center;
+   box-sizing: border-box;
+   border: 2px solid black;
+   border-radius: 10px;
+}
+#pontuacaoO {
+    left: 15%;
+    bottom: 45%;
+    margin: 5px 5px;
+    padding: 5px 5px; 
+    position: absolute;
+    width: 18%;
+    text-align: center;
+    box-sizing: border-box;
+    border: 2px solid black;
+    border-radius: 10px;
+ }
