@@ -3,9 +3,18 @@
 # <a href="https://matheussan99.github.io/Jogo_Da_Velha/">➡️➡️➡️Clique Aqui - Jogo Da Velha ⬅️ ⬅️ ⬅️ <a/>
 
 ## Dio BootCamp Órbi Web Games Developer
+  </div>
   
-- Usei HTML, Css e Javascript
+### Linguagens Usadas:  
   
+![Html Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+  
+![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  
+  <div align='center'>
+    
  💬 Me Encontre por aí: <br/><br/>
 
  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:99matheussan@gmail.com.br)
