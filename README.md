@@ -4,6 +4,8 @@
 
 ## Dio BootCamp Órbi Web Games Developer
   
+- Usei HTML, Css e Javascript
+  
  💬 Me Encontre por aí: <br/><br/>
 
  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:99matheussan@gmail.com.br)
